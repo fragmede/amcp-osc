@@ -1,4 +1,7 @@
 amcp-osc
 ========
 
-TouchOSC interface for AMCP
+TouchOSC interfaces for AMCP
+
+cc.touchosc - Gamma and RGB sliders
+amcp_template.touchosc - Buttons to make the cloud do stuff
